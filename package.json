@@ -1,0 +1,13 @@
+{
+  "name": "hindi-ai-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.15.0",
+    "dotenv": "^16.4.7",
+    "telegraf": "^4.16.3"
+  }
+}
